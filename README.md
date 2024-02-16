@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho com E-commerce
 - 🌱 Estudando JS/React
-- 😄 Ele/dele
   
 <div>
 <a href="https://github.com/douglasmvc">
